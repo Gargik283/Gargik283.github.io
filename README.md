@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Welcome to My VLSI Portfolio</h1>
-    <p>Hello, I'm [Your Name], a VLSI design enthusiast.</p>
+    <p>Hello, I'm [Gargi Kundu], a VLSI design enthusiast.</p>
     <nav>
         <ul>
             <li><a href="about.html">About</a></li>
