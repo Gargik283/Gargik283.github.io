@@ -3,6 +3,9 @@
 <html>
 <head>
     <title>VLSI Portfolio</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="My VLSI design portfolio showcasing my projects and skills.">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
